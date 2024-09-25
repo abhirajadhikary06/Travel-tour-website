@@ -46,6 +46,10 @@ header {
     height: auto;
 }
 
+.navlist {
+    width: 100vw;
+}
+
 .navlist a {
     display: inline-block;
     font-size: var(--p-font);
